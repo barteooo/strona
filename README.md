@@ -18,7 +18,8 @@ filmy warte obejrzenia dotyczące logiki:
 
 
  
- # choinka w pythonie  
+ # choinka w pythonie 
+ dowolnytekst
  
  ![choinka](choinka.png) 
  ```py   
